@@ -139,8 +139,8 @@ public class MainActivity extends AppCompatActivity {
                 "21fe1121bd0cc2c5",
                 "1ba6b7e0bb2aae4c"
         };
-        final String user = "17371986635";//lqy
-        //final String user = "15827605892";//wjk
+        final String user = "173******35";//lqy
+        //final String user = "158******92";//wjk
         final String password = pwd[day - 1];
         final String[] status = {""};
         final int[] test = {0};//如果test==1则有网
